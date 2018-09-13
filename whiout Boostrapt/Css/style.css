@@ -1,0 +1,47 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	background-color: grey;
+	color: #fff;
+}
+
+
+.conteniar{
+	width: 80%;
+	margin:auto;
+}
+.layout h1{
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+
+.layout {
+	margin-bottom: 10%;
+}
+
+
+.layout p{
+	text-align: center;
+}
+
+
+.block h1{
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.block{
+	margin-bottom: 8%;
+}
+
+.squer{
+	background: #fff;
+    border: 5px solid black;
+    width: 10%;
+    height: 100px;
+    display: inline-block;
+    margin: 20px;
+    position: relative;
+    left: 170px;
+}
